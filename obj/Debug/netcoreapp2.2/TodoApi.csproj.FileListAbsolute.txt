@@ -1,0 +1,14 @@
+/home/fernaherp/dev/work/dotnetcore/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/home/fernaherp/dev/work/dotnetcore/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/home/fernaherp/dev/work/dotnetcore/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/home/fernaherp/dev/work/dotnetcore/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/home/fernaherp/dev/work/dotnetcore/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/home/fernaherp/dev/work/dotnetcore/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/home/fernaherp/dev/work/dotnetcore/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/home/fernaherp/dev/work/dotnetcore/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/home/fernaherp/dev/work/dotnetcore/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/home/fernaherp/dev/work/dotnetcore/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/home/fernaherp/dev/work/dotnetcore/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/home/fernaherp/dev/work/dotnetcore/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/home/fernaherp/dev/work/dotnetcore/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/home/fernaherp/dev/work/dotnetcore/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
